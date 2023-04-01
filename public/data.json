@@ -1,0 +1,38 @@
+[
+    {
+      "id": "6425ec8a3254955dd6c55a18",
+      "authorName": "Fulton Hart",
+      "authorImg": "https://media.istockphoto.com/id/1405304177/photo/mature-man-using-mobile-phone-at-home.jpg?b=1&s=170667a&w=0&k=20&c=o97eOzY3yxM5p1ai4-Wv60A4h9F8jqq-00J_f39EvqQ=",
+      "blogTitle": "Veniam reprehenderit nulla velit duis.\r\n",
+      "blogCoverImg": "https://images.unsplash.com/photo-1613677135043-a2512fbf49fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1572&q=80",
+      "readTime": 23,
+      "publishDate": "02-07-2025"
+    },
+    {
+      "id": "6425ec8a6e40896d60c8b243",
+      "authorName": "Whitaker Ruiza",
+      "authorImg": "https://media.istockphoto.com/id/1358132456/photo/happy-business-woman-working-from-home.jpg?b=1&s=170667a&w=0&k=20&c=AwTp8iBddJ_AzOJWUhhcVA2nVoZC5TfiRJAGwF-IG4M=",
+      "blogTitle": "Excepteur consequat do nostrud mollit dup.\r\n",
+      "blogCoverImg": "https://images.unsplash.com/photo-1602529710584-458a995c8785?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGFja3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+      "readTime": 12,
+      "publishDate": "02-07-2025"
+    },
+    {
+      "id": "6425ec8ae6030893ab681022",
+      "authorName": "Annmarie Zimmerman",
+      "authorImg": "https://media.istockphoto.com/id/1416048929/photo/woman-working-on-laptop-online-checking-emails-and-planning-on-the-internet-while-sitting-in.jpg?b=1&s=170667a&w=0&k=20&c=XCzSqjgn02etddi527fy6Q9Dz_MtPYKKc-MMbhS3kK0=",
+      "blogTitle": "Aliqua magna exercitation culpa ut consetu.\r\n",
+      "blogCoverImg": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aGFja3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+      "readTime": 25,
+      "publishDate": "02-07-2025"
+    },
+    {
+      "id": "6425ec8a042361040a5f34a6",
+      "authorName": "Hess King",
+      "authorImg": "https://media.istockphoto.com/id/1420486889/photo/candid-portrait-of-young-middle-eastern-digital-native.jpg?b=1&s=170667a&w=0&k=20&c=XZ57XDmNuS_eOtXdKpEFeMmen4hIKoHGeZ89B4HHOYY=",
+      "blogTitle": "Ex consequat exercitation sint elit ips.\r\n",
+      "blogCoverImg": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGhhY2t8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "readTime": 27,
+      "publishDate": "02-07-2025"
+    }
+  ]
